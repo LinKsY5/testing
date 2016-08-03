@@ -1,0 +1,3 @@
+<?php
+$testing = "Hello World";
+?>
